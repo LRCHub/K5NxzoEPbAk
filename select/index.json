@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Ideal/Idol",
+  "base_artist": "KiRaRe",
+  "createdAt": "2025-12-16T12:43:00.072495Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Ideal d'Amor",
+      "artist": "Madredeus",
+      "has_synced": false,
+      "path": "select/01_Ideal_d'Amor_Madredeus.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Ideal World",
+      "artist": "Brenda Russell",
+      "has_synced": true,
+      "path": "select/02_Ideal_World_Brenda_Russell.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "My Ideal",
+      "artist": "Tony Bennett",
+      "has_synced": false,
+      "path": "select/03_My_Ideal_Tony_Bennett.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "My Ideal",
+      "artist": "Chet Baker",
+      "has_synced": false,
+      "path": "select/04_My_Ideal_Chet_Baker.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Ideal World",
+      "artist": "The Christians",
+      "has_synced": false,
+      "path": "select/05_Ideal_World_The_Christians.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Some Half-Baked Ideal Called Wonderful",
+      "artist": "Catatonia",
+      "has_synced": false,
+      "path": "select/06_Some_Half-Baked_Ideal_Called_Wonderful_Catatonia.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "My Ideal (Remastered)",
+      "artist": "Chet Baker",
+      "has_synced": false,
+      "path": "select/07_My_Ideal_(Remastered)_Chet_Baker.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Ideal Husband",
+      "artist": "Father John Misty",
+      "has_synced": true,
+      "path": "select/08_The_Ideal_Husband_Father_John_Misty.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Highest Ideal",
+      "artist": "Unleashed",
+      "has_synced": true,
+      "path": "select/09_The_Highest_Ideal_Unleashed.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Mi Chica Ideal",
+      "artist": "Grupo Bryndis",
+      "has_synced": true,
+      "path": "select/10_Mi_Chica_Ideal_Grupo_Bryndis.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Persona Ideal",
+      "artist": "Adolescent's Orquesta",
+      "has_synced": true,
+      "path": "select/11_Persona_Ideal_Adolescent's_Orquesta.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Persona Ideal",
+      "artist": "Los Adolescentes",
+      "has_synced": true,
+      "path": "select/12_Persona_Ideal_Los_Adolescentes.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Chica Ideal",
+      "artist": "Sebastian Yatra feat. Guaynaa",
+      "has_synced": true,
+      "path": "select/13_Chica_Ideal_Sebastian_Yatra_feat._Guaynaa.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Chica Ideal",
+      "artist": "Sebastián Yatra, Guaynaa",
+      "has_synced": true,
+      "path": "select/14_Chica_Ideal_Sebastián_Yatra,_Guaynaa.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Mi chica ideal",
+      "artist": "Banda Machos",
+      "has_synced": true,
+      "path": "select/15_Mi_chica_ideal_Banda_Machos.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "The Ideal Woman",
+      "artist": "Adrian Belew",
+      "has_synced": false,
+      "path": "select/16_The_Ideal_Woman_Adrian_Belew.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Un Mundo Ideal",
+      "artist": "Ricardo Montaner & Michelle",
+      "has_synced": false,
+      "path": "select/17_Un_Mundo_Ideal_Ricardo_Montaner_&_Michelle.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Ideal/Idol",
+      "artist": "KiRaRe",
+      "has_synced": false,
+      "path": "select/pl_01_Ideal_Idol_KiRaRe.txt"
+    }
+  ]
+}
